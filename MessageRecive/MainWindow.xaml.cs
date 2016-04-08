@@ -29,6 +29,7 @@ namespace MessageRecive
         Socket socketClient = null;
         Thread threadClient = null;
         private NotifyIcon m_notifyIcon;
+        //test
         
         public MainWindow()
         {
